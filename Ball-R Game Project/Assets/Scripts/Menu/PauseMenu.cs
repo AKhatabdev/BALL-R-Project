@@ -64,3 +64,5 @@ public class PauseMenu : MonoBehaviour
         SceneManager.LoadScene("StartMenu");
     }
 }
+
+\\check update method interval
